@@ -66,7 +66,7 @@ const HorizontalRadioGroup = ({
 
 HorizontalRadioGroup.defaultProps = {
   selectedValue: '',
-  wrapperStyle: ''
+  wrapperStyle: 'rounded'
 };
 
 HorizontalRadioGroup.propTypes = {
